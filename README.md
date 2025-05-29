@@ -1,7 +1,7 @@
 # Hi! I'm dohyun06
 I'm undergraduate in GIST
 
-I'm a BE developer in Infoteam
+I'm a FE/BE developer in Infoteam
 
 
 ### Skill
