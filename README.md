@@ -16,6 +16,11 @@ I'm a FE/BE developer in Infoteam
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
 
+### Experience
+- Front/Backend developer at Infoteam [2025.03.11 -]
+- 2025 Quantum Compution Hackathon Problem3 2nd Place(Mentor Award) [2025.06.29 - 2025.07.01]
+
+
 ### Info
 ![Dohyun06's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun06\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun4you2006)](https://solved.ac/hyun4you2006/)
