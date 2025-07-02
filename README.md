@@ -17,7 +17,7 @@ I'm a FE/BE developer in Infoteam
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
 
 ### Experience
-- Front/Backend developer at Infoteam [2025.03.11 -]
+- Front/Backend developer at Infoteam [2025.03.11 - ]
 - 2025 Quantum Compution Hackathon Problem3 2nd Place(Mentor Award) [2025.06.29 - 2025.07.01]
 
 
