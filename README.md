@@ -15,7 +15,7 @@ I'm a FE/BE developer in Infoteam
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)
-![Qiskit](https://img.shields.io/badge/Unity-#929C4?style=flat&logo=qiskit&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
 
 ### Experience
 - Front/Backend developer at Infoteam [2025.03.11 - ]
