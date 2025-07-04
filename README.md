@@ -1,4 +1,4 @@
-# Hi! I'm dohyun06
+# Hi! I'm Dohyun Kim
 I'm undergraduate in GIST
 
 I'm a FE/BE developer in Infoteam
@@ -18,11 +18,11 @@ I'm a FE/BE developer in Infoteam
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat&logo=qiskit&logoColor=white)
 
 ### Experience
-- Front/Backend developer at Infoteam [2025.03.11 - ]
+- Front/Backend developer at [Infoteam](https://github.com/gsainfoteam) [2025.03.11 - ]
 - 2025 Quantum Compution Hackathon Problem3 2nd Place(Mentor Award) [2025.06.29 - 2025.07.01]
 
 
 ### Info
-![Dohyun06's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun06\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Dohyun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun06\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun4you2006)](https://solved.ac/hyun4you2006/)
 
