@@ -47,7 +47,7 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam)
 ## Experience
 - GIST [2025.03.01 - ]
 - Front/Backend developer at [Infoteam](https://github.com/gsainfoteam) [2025.03.11 - ]
-- [2025 Quantum Compution Hackathon](https://qhackathon.kr/) Problem3 2nd Place(Mentor Award) [2025.06.29 - 2025.07.01]
+- [2025 Quantum Computation Hackathon](https://qhackathon.kr/) Problem3 2nd Place(Mentor Award) [2025.06.29 - 2025.07.01]
 ## Info
 [![Dohyun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun06\&show_icons=true\&bg_color=151b23\&ring_color=7ce38b\&theme=dark#gh-dark-mode-only)](#)
 
