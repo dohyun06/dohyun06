@@ -49,8 +49,8 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam)
 - Front/Backend developer at [Infoteam](https://github.com/gsainfoteam) [2025.03.11 - ]
 - [2025 Quantum Compution Hackathon](https://qhackathon.kr/) Problem3 2nd Place(Mentor Award) [2025.06.29 - 2025.07.01]
 ## Info
-[![Dohyun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun06\&show_icons=true\&ring_color=7ce38b\&theme=dark#gh-dark-mode-only)](#)
+[![Dohyun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun06\&show_icons=true\&bg_color=151b23\&ring_color=7ce38b\&theme=dark#gh-dark-mode-only)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyun06\&layout=donut\&theme=dark#gh-dark-mode-only)](#)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun4you2006)](https://solved.ac/hyun4you2006/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyun06\&layout=donut\&bg_color=151b23\&theme=dark#gh-dark-mode-only)](#)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun4you2006)](https://solved.ac/profile/hyun4you2006)
 
