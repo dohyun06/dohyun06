@@ -19,7 +19,6 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam)
 [![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3&logoColor=white)](#)
 #### Backend
 [![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat&logo=sfml&logoColor=white)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)](#)
 [![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)](#)
 [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white)](#)
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](#)
