@@ -34,6 +34,8 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)](#)
 [![Oracle](https://img.shields.io/badge/Oracle-232F3E?style=flat&logo=oracle&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](#)
 #### Tools
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](#)
 [![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](#)
@@ -46,7 +48,8 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam)
 ## Experience
 - GIST [2025.03.01 - ]
 - Front/Backend developer at [Infoteam](https://github.com/gsainfoteam) [2025.03.11 - ]
-- [2025 Quantum Computation Hackathon](https://qhackathon.kr/) Problem3 2nd Place(Mentor Award) [2025.06.29 - 2025.07.01]
+- [2025 Quantum Computation Hackathon](https://qhackathon.kr/) Problem3 2nd Place(Mentor Award) [2025.06.29 - 2025.07.01] [[Repository](https://github.com/Deepshin-Q/2025-Quantum-Computing-Hackathon)]
+- [2025 Honam IS Hackathon](https://qhackathon.kr/) Encourage Award [2025.08.21 - 2025.08.22] [[Backend](https://github.com/dohyun06/shimter-be)] [[AI](https://github.com/dohyun06/shimter-ai)]
 ## Info
 [![Dohyun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun06\&show_icons=true\&bg_color=151b23\&ring_color=7ce38b\&theme=dark#gh-dark-mode-only)](#)
 
