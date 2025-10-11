@@ -2,6 +2,8 @@
 I'm undergraduate in GIST
 
 I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and Backend developer in AunionAI
+## My WakaTime Stats 📊
+
 ## Stacks
 #### Languages
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](#)
@@ -63,6 +65,5 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and Backend 
 - Backend developer at AunionAI [2025.09.12 - ]
 ## Info
 [![Dohyun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun06\&show_icons=true\&bg_color=151b23\&ring_color=7ce38b\&theme=dark#gh-dark-mode-only)](#)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyun06\&layout=donut\&bg_color=151b23\&theme=dark#gh-dark-mode-only)](#)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun4you2006)](https://solved.ac/profile/hyun4you2006)
