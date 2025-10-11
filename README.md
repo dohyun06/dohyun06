@@ -3,18 +3,7 @@ I'm undergraduate in GIST
 
 I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and Backend developer in AunionAI
 <!--START_SECTION:waka-->
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   38 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Tuesday                  32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Wednesday                64 commits          █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Thursday                 50 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-Friday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Saturday                 37 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Sunday                   92 commits          ███████░░░░░░░░░░░░░░░░░░   26.98 % 
-```
-
+![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2017%20mins-blue)
 
 
 <!--END_SECTION:waka-->
