@@ -3,7 +3,18 @@ I'm undergraduate in GIST
 
 I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and Backend developer in AunionAI
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-112%20hrs%2017%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.7%20thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     4 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.72 % 
+Markdown                 3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+TypeScript               2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Groovy                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+SQL                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+```
 
 
 <!--END_SECTION:waka-->
