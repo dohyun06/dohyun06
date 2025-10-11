@@ -2,10 +2,8 @@
 I'm undergraduate in GIST
 
 I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and Backend developer in AunionAI
-## My WakaTime Stats 📊
-
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ## Stacks
 #### Languages
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](#)
