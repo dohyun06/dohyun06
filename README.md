@@ -82,6 +82,5 @@ HTML                     3 mins              ░░░░░░░░░░░�
 - 2025 Honam IS Hackathon Encourage Award [2025.08.21 - 2025.08.22] & University Student Startup Idea Competition Special Award [[Backend](https://github.com/dohyun06/shimter-be)] [[AI](https://github.com/dohyun06/shimter-ai)]
 - Backend developer at AunionAI [2025.09.12 - ]
 ## Info
-[![Dohyun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun06\&show_icons=true\&bg_color=151b23\&ring_color=7ce38b\&theme=dark#gh-dark-mode-only)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dohyun06\&layout=donut\&bg_color=151b23\&theme=dark#gh-dark-mode-only)](#)
+[![Dohyun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun06&count_private=true&show_icons=true&bg_color=151b23&ring_color=7ce38b&theme=dark#gh-dark-mode-only)](#)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyun4you2006)](https://solved.ac/profile/hyun4you2006)
