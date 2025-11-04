@@ -5,6 +5,17 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and Backend 
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-102.8%20thousand%20lines%20of%20code-blue)
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Java                     5 hrs 18 mins       ██████████████░░░░░░░░░░░   55.33 % 
+Markdown                 2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.21 % 
+SQL                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Groovy                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+```
+
 
 <!--END_SECTION:waka-->
 ## Stacks
