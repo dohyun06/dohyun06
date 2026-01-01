@@ -3,17 +3,17 @@ I'm undergraduate in GIST
 
 I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and Backend developer in AunionAI
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.15%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 33 mins       █████████████████░░░░░░░░   69.94 % 
-Bash                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Prisma                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+TypeScript               7 hrs 8 mins        █████████████████░░░░░░░░   68.82 % 
+Bash                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+JSON                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Prisma                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 ```
 
 
