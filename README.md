@@ -9,11 +9,11 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and Backend 
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   44.01 % 
-Markdown                 1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-SQL                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-Java                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Bash                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+TypeScript               4 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.81 % 
+Java                     2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
+Markdown                 1 hr 43 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+SQL                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Prisma                   20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 ```
 
 
