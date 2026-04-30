@@ -9,11 +9,11 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and Backend 
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.75 % 
-Other                    3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Python                   2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-Java                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-YAML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Other                    3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   33.72 % 
+Markdown                 2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
+Java                     1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+YAML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Python                   47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 ```
 
 
