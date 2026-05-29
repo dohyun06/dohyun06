@@ -3,7 +3,18 @@ I'm undergraduate in GIST
 
 I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and Backend developer in AunionAI
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.68%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.82%20thousand%20lines%20of%20code-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 5 hrs 16 mins       ██████████████░░░░░░░░░░░   56.29 % 
+TypeScript               2 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Docker                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+TSConfig                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+```
 
 
 <!--END_SECTION:waka-->
