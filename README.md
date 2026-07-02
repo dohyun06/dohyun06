@@ -80,6 +80,8 @@ JSON                     2 hrs 8 mins        ██░░░░░░░░░�
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
 [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](#)
+[![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)](#)
+
 ## Experience
 - GIST undergraduate [2025.03.01 - ]
 - Front/Backend developer at [Infoteam](https://github.com/gsainfoteam) [2025.03.11 - ]
