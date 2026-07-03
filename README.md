@@ -9,11 +9,11 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and AunionAI
 
 ```text
 💬 Programming Languages: 
-JavaScript               9 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   40.23 % 
-Java                     3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-TypeScript               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-JSON                     2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-YAML                     2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+JavaScript               5 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   30.35 % 
+TypeScript               4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Java                     2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+YAML                     2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+JSON                     1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
 
 
