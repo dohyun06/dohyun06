@@ -3,17 +3,17 @@ I'm undergraduate in GIST
 
 I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and AunionAI
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.82%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.83%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   26.42 % 
-Java                     3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
-YAML                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Python                   1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+TypeScript               7 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.11 % 
+YAML                     3 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Java                     3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Python                   1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 ```
 
 
