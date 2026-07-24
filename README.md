@@ -5,17 +5,6 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and AunionAI
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.83%20thousand%20lines%20of%20code-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               12 hrs 6 mins       ██████████░░░░░░░░░░░░░░░   38.17 % 
-YAML                     4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Markdown                 3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
-Java                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Python                   2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-```
-
 
 <!--END_SECTION:waka-->
 ## Stacks
