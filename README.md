@@ -3,17 +3,44 @@ I'm undergraduate in GIST
 
 I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and AunionAI
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-102%20hrs%2021%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.83%20thousand%20lines%20of%20code-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   38.05 % 
-Java                     3 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-Markdown                 1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Python                   45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-YAML                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+TypeScript               4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.73 % 
+Java                     3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Markdown                 47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+Python                   45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 52 mins (90.45%)
+
+✍️ 6,740 lines written by AI, 66 lines written by hand (99.03% AI-written)
+
+🔤 115,755,549 Input Tokens, 775,759 Output Tokens
+
+💵 $691.69 Estimated AI Cost This Week
+
+🧠 35 AI Sessions, 210 AI Prompts
+
+Opus                     6,726 lines         ██████████████████████░░░   89.91 % 
+Sonnet                   741 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Haiku                    14 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.03% of written lines came from AI
+📄 Detailed Prompter — average 658 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.59% of changed lines were hand-edited
 ```
 
 
