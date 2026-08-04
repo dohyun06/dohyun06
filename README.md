@@ -3,7 +3,7 @@ I'm undergraduate in GIST
 
 I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and AunionAI
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-107%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2047%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.83%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -11,34 +11,34 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and AunionAI
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
-Python                   2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
-TypeScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Java                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Bash                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Python                   3 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.81 % 
+Markdown                 3 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   31.28 % 
+TypeScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
+Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Nginx configuration file 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 27 mins (93.98%)
+⏱ AI Coding Time: 11 hrs 5 mins (89.44%)
 
-✍️ 8,203 lines written by AI, 9 lines written by hand (99.89% AI-written)
+✍️ 9,376 lines written by AI, 27 lines written by hand (99.71% AI-written)
 
-🔤 120,255,533 Input Tokens, 507,016 Output Tokens
+🔤 187,080,806 Input Tokens, 570,444 Output Tokens
 
-💵 $613.29 Estimated AI Cost This Week
+💵 $949.15 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 104 AI Prompts
+🧠 17 AI Sessions, 100 AI Prompts
 
-Opus                     8,088 lines         ████████████████████████░   97.85 % 
-Gemini                   178 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Opus                     9,385 lines         █████████████████████████   99.96 % 
+Gemini                   4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📄 Detailed Prompter — average 1,183 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🤖 AI-Driven — 99.71% of written lines came from AI
+📄 Detailed Prompter — average 1,076 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.37% of changed lines were hand-edited
 ```
 
 
