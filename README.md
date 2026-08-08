@@ -3,7 +3,7 @@ I'm undergraduate in GIST
 
 I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and AunionAI
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%2052%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.83%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -11,34 +11,36 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and AunionAI
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   35.87 % 
-Python                   3 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.57 % 
-Bash                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
-JavaScript               43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-SSH Config               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Markdown                 4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.93 % 
+Python                   3 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Bash                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Other                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 34 mins (87.28%)
+⏱ AI Coding Time: 10 hrs 33 mins (88.27%)
 
-✍️ 9,090 lines written by AI, 33 lines written by hand (99.64% AI-written)
+✍️ 8,598 lines written by AI, 36 lines written by hand (99.58% AI-written)
 
-🔤 220,037,857 Input Tokens, 613,994 Output Tokens
+🔤 199,704,493 Input Tokens, 651,939 Output Tokens
 
-💵 $1114.12 Estimated AI Cost This Week
+💵 $1020.87 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 94 AI Prompts
+🧠 12 AI Sessions, 108 AI Prompts
 
-Opus                     9,194 lines         █████████████████████████   100.00 % 
+Opus                     7,876 lines         ███████████████████████░░   90.03 % 
+Sonnet                   467 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Haiku                    405 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.64% of written lines came from AI
-📝 Concise Prompter — average 45 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.62% of changed lines were hand-edited
+🤖 AI-Driven — 99.58% of written lines came from AI
+📝 Concise Prompter — average 456 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.7% of changed lines were hand-edited
 ```
 
 
