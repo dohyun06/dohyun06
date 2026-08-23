@@ -71,9 +71,9 @@ I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and AunionAI
 
 ## Experience
 - GIST undergraduate [2025.03.01 - ]
-- Front/Backend developer at [Infoteam](https://github.com/gsainfoteam) [2025.03.11 - ]
+- Frontend/Backend developer at [Infoteam](https://github.com/gsainfoteam) [2025.03.11 - ]
 - [2025 Quantum Computation Hackathon](https://qhackathon.kr/) Problem3 2nd Place(Mentor Award) [2025.06.29 - 2025.07.01] [[Repository](https://github.com/Deepshin-Q/2025-Quantum-Computing-Hackathon)]
 - 2025 Honam IS Hackathon Encourage Award [2025.08.21 - 2025.08.22] & University Student Startup Idea Competition Special Award [[Backend](https://github.com/dohyun06/shimter-be)] [[AI](https://github.com/dohyun06/shimter-ai)]
-- Backend developer at AunionAI [2025.09.12 - ]
+- Frontend/Backend developer at AunionAI [2025.09.12 - ]
 ## Info
 [![Dohyun Kim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dohyun06&count_private=true&show_icons=true&bg_color=151b23&ring_color=7ce38b&theme=dark#gh-dark-mode-only)](#)
