@@ -2,47 +2,7 @@
 I'm undergraduate in GIST
 
 I'm a FE/BE developer in [Infoteam](https://github.com/gsainfoteam) and AunionAI
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-134%20hrs%202%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-103.83%20thousand%20lines%20of%20code-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 1 hr 25 mins        ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-Java                     1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-TypeScript               45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Python                   31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-PowerShell               26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 30 mins (87.72%)
-
-✍️ 1,347 lines written by AI, 3 lines written by hand (99.78% AI-written)
-
-🔤 2,886,805 Input Tokens, 284,306 Output Tokens
-
-💵 $47.38 Estimated AI Cost This Week
-
-🧠 8 AI Sessions, 37 AI Prompts
-
-Opus                     1,375 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📄 Detailed Prompter — average 1,183 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 6.59% of changed lines were hand-edited
-```
-
-
-<!--END_SECTION:waka-->
 ## Stacks
 #### Languages
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](#)
